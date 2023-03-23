@@ -2,6 +2,11 @@
 // Date 23.03.2023
 #include <stdio>
 
+void readEEP()
+{
+
+}
+
 void test()
 {
 	// do nothing
